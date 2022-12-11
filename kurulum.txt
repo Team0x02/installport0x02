@@ -1,0 +1,2 @@
+pkg install python2 && python3 
+python3 installport0x02.py
